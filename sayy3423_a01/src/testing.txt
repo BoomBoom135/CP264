@@ -1,0 +1,27 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Assignment 1 Sample Test Results
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2023-09-07
+ *
+ * -------------------------------------
+ */
+ 
+Feet: 100000.00 --> Acres: 2.30
+
+Time: (10.00 * 10.00) / 5.00 --> 20
+
+Reverse: 25091999 --> 19990925
+
+Falling time: 50 --> 3
+
+Hypotenuse: 3 and 4 --> 5
+
+Sum: 100 --> 2550
+
+Partial sum: 4 --> 2.083333
+
+Years: (10 and 10 and 100) --> 29

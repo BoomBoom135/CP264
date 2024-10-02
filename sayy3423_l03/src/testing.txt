@@ -1,0 +1,45 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 3 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2024-01-25
+ *
+ * -------------------------------------
+ */
+------------------
+Task 1
+
+Enter integers, one per line:
+1
+2
+3 4
+5
+g
+Sum: 11
+
+------------------
+Task 2
+
+Enter three integers separated by commas: 1,2,three
+The integers were not properly entered.
+Enter three integers separated by commas: 2,4,6,9
+Sum: 12
+
+
+---------------
+Task 3
+
+Enter 4 values for an array of int.
+Value for index 0: 6
+Value for index 1: 3
+Value for index 2: e
+Not a valid integer
+Value for index 2: 5
+Value for index 3: fff
+Not a valid integer
+Value for index 3: 7
+Value for index 4: {6, 3, 5, 7}
+
